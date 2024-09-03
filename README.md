@@ -11,7 +11,7 @@ This implementation is written by Zijun Deng at the South China University of Te
 @inproceedings{wang2018deep,
   title={Deep attentional features for prostate segmentation in ultrasound},
   author={Wang, Yi and Deng, Zijun and Hu, Xiaowei and Zhu, Lei and Yang, Xin and Xu, Xuemiao and Heng, Pheng-Ann and Ni, Dong},
-  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part IV 11},
+  booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   pages={523--530},
   year={2018}
 }
