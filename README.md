@@ -7,12 +7,15 @@ This implementation is written by Zijun Deng at the South China University of Te
 ***
 
 ## Citation
-@inproceedings{wang18d,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Wang, Yi and Deng, Zijun and Hu, Xiaowei and Zhu, Lei and Yang, Xin and Xu, Xuemiao and Heng, Pheng-Ann and Ni, Dong},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Deep Attentional Features for Prostate Segmentation in Ultrasound},    
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {MICCAI},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+```
+@inproceedings{wang2018deep,
+  title={Deep attentional features for prostate segmentation in ultrasound},
+  author={Wang, Yi and Deng, Zijun and Hu, Xiaowei and Zhu, Lei and Yang, Xin and Xu, Xuemiao and Heng, Pheng-Ann and Ni, Dong},
+  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part IV 11},
+  pages={523--530},
+  year={2018}
 }
+```
 
 ## Requirement
 * Python 2.7
